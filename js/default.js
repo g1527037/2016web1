@@ -1,2 +1,2 @@
-window.alert('あ');
+window.alert('なんで？');
 console.log('なんで？');
